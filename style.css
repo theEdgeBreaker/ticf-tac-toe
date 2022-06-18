@@ -1,0 +1,33 @@
+.background {
+    background-color: #99A799;
+}
+
+.grid-container { 
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    background-color: white;
+    grid-gap: 1px;
+    position: absolute;
+    bottom: 150px;
+    left: 750px;
+    
+
+}
+
+.grid-item {
+    background-color: #191A19;
+    border: 2.3px solid;
+    border-color: white;
+    padding: 50px;
+    font-size: 50px;
+    text-align: center;
+    color: #D3E4CD;
+}
+
+.heading {
+    font-size: 70px;
+    text-align: center;
+    color: Black;
+    font-family: "Montserrat";
+    font-weight: 800;
+}
